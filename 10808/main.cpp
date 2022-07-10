@@ -1,7 +1,4 @@
 
-/**
- * https://www.acmicpc.net/problem/2753
- */
 #include <bits/stdc++.h>
 using namespace std;
 
